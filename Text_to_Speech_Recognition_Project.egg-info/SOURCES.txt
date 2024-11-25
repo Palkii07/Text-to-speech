@@ -1,0 +1,12 @@
+setup.py
+Text_to_Speech_Recognition_Project.egg-info/PKG-INFO
+Text_to_Speech_Recognition_Project.egg-info/SOURCES.txt
+Text_to_Speech_Recognition_Project.egg-info/dependency_links.txt
+Text_to_Speech_Recognition_Project.egg-info/requires.txt
+Text_to_Speech_Recognition_Project.egg-info/top_level.txt
+text_to_speech/__init__.py
+text_to_speech/constants/__init__.py
+text_to_speech/entity/__init__.py
+text_to_speech/entity/config_entity.py
+text_to_speech/exception/__init__.py
+text_to_speech/logging/__init__.py

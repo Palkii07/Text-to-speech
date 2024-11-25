@@ -1,0 +1,7 @@
+25-11-2024 22:07 WARNING _internal ====>  * Debugger is active!
+25-11-2024 22:07 INFO _internal ====>  * Debugger PIN: 793-073-048
+25-11-2024 22:08 INFO _internal ====> 127.0.0.1 - - [25/Nov/2024 22:08:14] "GET / HTTP/1.1" 200 -
+25-11-2024 22:08 INFO textToSpeech ====> Loaded all application configurations
+25-11-2024 22:08 INFO _internal ====> 127.0.0.1 - - [25/Nov/2024 22:08:57] "POST /predict HTTP/1.1" 200 -
+25-11-2024 22:10 INFO textToSpeech ====> Loaded all application configurations
+25-11-2024 22:10 INFO _internal ====> 127.0.0.1 - - [25/Nov/2024 22:10:11] "POST /predict HTTP/1.1" 200 -

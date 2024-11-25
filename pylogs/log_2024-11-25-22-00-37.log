@@ -1,0 +1,9 @@
+25-11-2024 22:00 WARNING _internal ====>  * Debugger is active!
+25-11-2024 22:00 INFO _internal ====>  * Debugger PIN: 793-073-048
+25-11-2024 22:00 INFO _internal ====> 127.0.0.1 - - [25/Nov/2024 22:00:57] "GET / HTTP/1.1" 200 -
+25-11-2024 22:01 INFO _internal ====> 127.0.0.1 - - [25/Nov/2024 22:01:49] "GET / HTTP/1.1" 200 -
+25-11-2024 22:05 INFO textToSpeech ====> Loaded all application configurations
+25-11-2024 22:05 INFO _internal ====> 127.0.0.1 - - [25/Nov/2024 22:05:04] "POST /predict HTTP/1.1" 200 -
+25-11-2024 22:07 INFO textToSpeech ====> Loaded all application configurations
+25-11-2024 22:07 INFO _internal ====>  * Detected change in 'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\encodings\\cp1252.py', reloading
+25-11-2024 22:07 INFO _internal ====> 127.0.0.1 - - [25/Nov/2024 22:07:36] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
