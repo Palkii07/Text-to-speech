@@ -1,5 +1,6 @@
 gtts
 flask
 flask-cors
+from-root
 gunicorn
 -e .
